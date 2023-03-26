@@ -2,8 +2,4 @@ El archivo .gitignore en Git es un archivo que se utiliza para especificar los a
 Esto es útil cuando se trabaja en un proyecto de software y hay ciertos archivos o directorios que no deben ser incluidos en el repositorio Git. Al agregar esos archivos o directorios al archivo .gitignore, Git los ignorará y no los incluirá en el historial de cambios.
 Algunos ejemplos de patrones comunes que se pueden agregar a un archivo ".gitignore" son:
 -   Archivos de compilación generados por el lenguaje de programación que estés utilizando (por ejemplo, archivos .class para Java, archivos .pyc para Python).
--   Archivos de configuración específicos de la máquina, como archivos de registro o archivos de configuración de IDE.
--   Archivos de salida generados por herramientas o scripts de construcción, como archivos de informe o de registro.
--   Directorios y archivos que contienen datos confidenciales o información de acceso, como archivos de credenciales, claves privadas, archivos de configuración con contraseñas, entre otros.
--   Archivos y directorios que contienen dependencias de terceros, ya que estos archivos no necesitan ser controlados de versiones ya que pueden ser descargados en tiempo de compilación o ejecución.
-Es importante que cada proyecto tenga su propio archivo ".gitignore" adaptado a sus necesidades específicas. Además, asegúrate de revisar regularmente el archivo ".gitignore" para asegurarte de que no estés ignorando accidentalmente archivos importantes o incluyendo archivos que no deberían estar en el control de versiones.
+- Modificaion Rama Master
